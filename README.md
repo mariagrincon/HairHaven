@@ -7,6 +7,10 @@
 
 
 
+
+
+
+
 [Data Deck](https://docs.google.com/presentation/d/1pOZ_1rjRPOQzDorzjouzMwbGxG-qQ_Lpgo2EHonNbL8/edit?usp=sharing)
 
 
@@ -17,8 +21,19 @@
 
 
 
+
+
+
+
 <img src="https://cdn-5f733ed3c1ac190fbc56ef88.closte.com/wp-content/uploads/2017/03/alexnet_small.png" widt="400">
 
+##Usage of Alexnet
+
+AlexNet is a convolutional neural network designed for image classification. It processes input images through convolutional layers to extract features, applies activation functions for non-linearity, uses pooling for spatial reduction, and employs fully connected layers for predictions
+
+
+
+  
 
 
 
