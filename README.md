@@ -33,9 +33,9 @@ AlexNet is a convolutional neural network designed for image classification. It 
 #
 [WandB](https://wandb.ai/mgarciarincon03/Linear_Model_Photo_1/runs/bib9h4yn)
 
-![image](https://github.com/mariagrincon/HappyHalt/assets/143119371/24ef4f6d-a009-44a6-8983-b9cfb15e5dca)       
+<img src="https://github.com/mariagrincon/HappyHalt/assets/143119371/24ef4f6d-a009-44a6-8983-b9cfb15e5dca)" width="350">       
 
-![image](https://github.com/mariagrincon/HappyHalt/assets/143119371/bf095bdd-46c0-4101-953f-9790f20b3a84)
+<img src="https://github.com/mariagrincon/HappyHalt/assets/143119371/bf095bdd-46c0-4101-953f-9790f20b3a84)" width="350">
 
 #
 #
