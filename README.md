@@ -33,6 +33,7 @@ AlexNet is a convolutional neural network designed for image classification. It 
 #
 [WandB](https://wandb.ai/mgarciarincon03/Linear_Model_Photo_1/runs/bib9h4yn?workspace=user-mgarciarincon03)
 
+
 https://wandb.ai/mgarciarincon03/Linear_Model_Photo_1/runs/bib9h4yn?workspace=user-mgarciarincon03
 
 #
