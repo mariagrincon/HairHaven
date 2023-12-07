@@ -12,6 +12,7 @@
 
 ![image](https://github.com/mariagrincon/HappyHalt/assets/143119371/b4116077-dc8c-4bf0-92aa-1ab2680020de)
 
+<img src="https://github.com/mariagrincon/HappyHalt/raw/main/assets/143119371/b4116077-dc8c-4bf0-92aa-1ab2680020de" alt="redlight" width="300"/>
 
 ![image](https://github.com/mariagrincon/HappyHalt/assets/143119371/47657dc4-593a-4318-84b1-eb5bb2069676)
 
