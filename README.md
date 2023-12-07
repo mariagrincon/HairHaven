@@ -10,9 +10,11 @@
 [Data Deck](https://docs.google.com/presentation/d/1pOZ_1rjRPOQzDorzjouzMwbGxG-qQ_Lpgo2EHonNbL8/edit?usp=sharing)
 
 
-https://www.wklaw.com/wp-content/uploads/2015/03/red-light.jpg
+![image](https://github.com/mariagrincon/HappyHalt/assets/143119371/b4116077-dc8c-4bf0-92aa-1ab2680020de)
+
+
+![image](https://github.com/mariagrincon/HappyHalt/assets/143119371/47657dc4-593a-4318-84b1-eb5bb2069676)
 
 
 
-[image](https://github.com/mariagrincon/HappyHalt/assets/143119371/060e0585-67b6-4c1f-b55e-a76c288ce4d8)](https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/traffic-light-green-1507213489.jpg?crop=1.00xw:0.994xh;0,0&resize=900:*)
 
