@@ -3,6 +3,7 @@
 
 
 ![image](https://github.com/mariagrincon/HappyHalt/assets/143119371/a2408c42-2709-4f29-8d67-0d11fd6216f6)
+[Introduction](https://docs.google.com/presentation/d/1ehpbmkpMEuUgyiNcjdiJzXfB8PKA8hPl_Xkx7ujKSdI/edit?usp=sharing)
 #
 #
 
