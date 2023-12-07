@@ -36,8 +36,11 @@ AlexNet is a convolutional neural network designed for image classification. It 
 
 #
 #
+
 Random Filters
-<img src="https://github.com/mariagrincon/HappyHalt/assets/143119371/1756ef3e-aed7-4a9e-a1fe-afa262672b96" alt="Image" width="300"/>
+
+
+<img src="https://github.com/mariagrincon/HappyHalt/assets/143119371/1756ef3e-aed7-4a9e-a1fe-afa262672b96" alt="Image" width="400"/>
 
 
 
