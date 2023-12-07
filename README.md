@@ -10,7 +10,8 @@
 [Data Deck](https://docs.google.com/presentation/d/1pOZ_1rjRPOQzDorzjouzMwbGxG-qQ_Lpgo2EHonNbL8/edit?usp=sharing)
 
 
-<img src="(https://www.wklaw.com/wp-content/uploads/2015/03/red-light.jpg)" alt="Alt text" width="300"/>
+<img src="https://www.wklaw.com/wp-content/uploads/2015/03/red-light.jpg" alt="red" width="300"/>
+
 
 
 
